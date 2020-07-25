@@ -8,8 +8,6 @@ warrant a full blog post.
 
 Did you learn something today? 
 
-_1 TIL and counting..._
-
 ## Categories
 
 * [Vim](#vim)
